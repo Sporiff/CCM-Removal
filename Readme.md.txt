@@ -1,1 +1,0 @@
-A short PowerShell script for removing all traces of the CCM client. This is to be run as an SMSTSPostAction within an SCCM task sequence as a means to grant authority to an MDM provider after a successful build.
