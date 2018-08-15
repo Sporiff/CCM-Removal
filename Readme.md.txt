@@ -1,1 +1,0 @@
-A simple script to remove all traces of the SCCM client in a task sequence. This step is to be run as an SMSTSPostAction after placing the file in a temporary location on the machine. It is to be used when trying to build machines with SCCM and then hand authority to an MDM.
